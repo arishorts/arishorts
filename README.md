@@ -17,19 +17,27 @@ https://medium.com/@PeaceOfury/give-a-new-avatar-to-your-github-87d0a4276a3b -->
 
 I have experience working with a variety of technologies, including:
 
-- HTML/CSS
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
-- MySQL
-- Jest
-- Sequelize
-- Handlebars
-- jQuery
-- Bootstrap
-- Heroku
+- Git<br>
+- JavaScript ES6+<br>
+- CSS3<br>
+- HTML5<br>
+- SQL<br>
+- MySQL<br>
+- Express<br>
+- Node.js<br>
+- Handlebars<br>
+- jQuery<br>
+- Bootstrap<br>
+- Heroku<br>
+- Jest<br>
+- Sequelize<br>
+- React<br>
+- GraphQL<br>
+- Apollo Server<br>
+- Redux<br>
+- Stripe<br>
+- Bcrypt<br>
+- JSON Webtokens<br>
 
  ## My Work
 
